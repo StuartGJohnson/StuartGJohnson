@@ -7,7 +7,7 @@
     - Deep learning with very little data
     - Deep learning with very little labeled data
     - Active learning and data set exploration
-    - Other applications for automatic differientiation tools
+    - Other applications for automatic differentiation tools
   - Archaeology and GIS
   - GIS and deep learning
   - Astronomy, both radio and optical
