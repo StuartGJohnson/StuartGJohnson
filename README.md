@@ -16,6 +16,8 @@
   - All tools to make device and SW engineering more transparent and more maintainable
 - 🌱 I’m currently learning ...
   - Robotics and Autononous Systems via Stanford Graduate courses
+  - How to observe variable stars (using AAVSO guides and my own HW/SW)
+  - How to use ROS via a home project
   - How to describe physical systems and implement/simulate/test their control in Modelica
   - How to describe physical systems and implement/simulate/test their control in Simulink
   - How to apply GIS and deep learning to map exploration
