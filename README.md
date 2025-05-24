@@ -32,6 +32,7 @@
   - [Lagrange Points](https://StuartGJohnson.github.io/LagrangePoints)
   - [AA203_project](https://stuartgjohnson.github.io/AA203_project/)
   - [ips_cam](https://stuartgjohnson.github.io/ips_cam/)
+  - [AA228-FinalProject](https://stuartgjohnson.github.io/AA228-FinalProject/)
 <!---
 StuartGJohnson/StuartGJohnson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
