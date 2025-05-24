@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @StuartGJohnson
 - 👀 I’m interested in ...
+  - Robotics! especially...
+    - Simulation
+    - Mobile robots
+    - Build up from scratch
   - Linear and non-linear controls and tools to develop and understand them:
     - Modelica
     - Simulink
