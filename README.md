@@ -4,6 +4,7 @@
     - Simulation
     - Mobile robots
     - Build up from scratch
+    - Various parts of the algorithm stack
   - Linear and non-linear controls and tools to develop and understand them:
     - Modelica
     - Simulink
