@@ -21,6 +21,7 @@
     - Photometry and small telescopes
   - All tools to make device and SW engineering more transparent and more maintainable
 - 🌱 I’m currently learning ...
+  - How to build up a robot (in simulation and reality) from near scratch in ROS2
   - Robotics and Autononous Systems via Stanford Graduate courses
   - How to observe variable stars (using AAVSO guides and my own HW/SW)
   - ROS projects
