@@ -27,6 +27,7 @@
 - Projects with (github) pages:
   - [Lagrange Points](https://StuartGJohnson.github.io/LagrangePoints)
   - [AA203_project](https://stuartgjohnson.github.io/AA203_project/)
+  - [ips_cam](https://stuartgjohnson.github.io/ips_cam/)
 <!---
 StuartGJohnson/StuartGJohnson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
