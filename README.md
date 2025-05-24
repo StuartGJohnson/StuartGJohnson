@@ -5,6 +5,7 @@
     - Mobile robots
     - Build up from scratch
     - Various parts of the algorithm stack
+    - Robots that function outdoors in (more) natural environments
   - Linear and non-linear controls and tools to develop and understand them:
     - Modelica
     - Simulink
