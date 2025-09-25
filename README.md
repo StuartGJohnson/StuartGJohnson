@@ -9,9 +9,9 @@
   - Linear and non-linear controls and tools to develop and understand them:
     - Modelica
     - Simulink
-  - Deep learning and deep learning tools, especially:
-    - Deep learning with very little data
-    - Deep learning with very little labeled data
+  - Machine learning and machine learning tools, especially:
+    - Machine learning with very little data
+    - Machine learning with very little labeled data
     - Active learning and data set exploration
     - Other applications for automatic differentiation tools
   - Archaeology and GIS
