@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StuartGJohnson
-- 👀 I’m interested in ...
+- 👀 I’m interested in / working on ...
   - Process
   - AI assisted project formulation and coding
     - OpenAI + codex
