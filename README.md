@@ -21,7 +21,9 @@
     - sensor timestamping/clock sync
     - code development and testing 
   - Digital Twins
-    - Insta360 -> photgrammetry -> point-clouds and meshes
+    - Insta360 -> photogrammetry -> point-clouds and meshes
+    - Handheld lidar -> direct structure modelling -> point clouds and meshes
+    - The above two together!
     - Procedural Generation of digital twins (e.g. L-systems for trees and plants) 
   - Control systems of all types
   - Machine learning and machine learning tools, especially:
