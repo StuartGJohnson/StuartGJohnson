@@ -14,6 +14,7 @@
       - point cloud processing
       - sensor fusion
       - tricky skid-steer stuff!
+      - occupancy map construction from non-robot scans (e.g. photogrammetry)
   - Microcontrollers
     - ESP32 (so far)
     - STM32 upcoming
