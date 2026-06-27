@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @StuartGJohnson
 - 👀 I’m interested in ...
+  - Process
   - AI assisted project formulation and coding
     - OpenAI + codex
     - Gemini + Antigravity
