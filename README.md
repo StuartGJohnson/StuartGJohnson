@@ -45,8 +45,9 @@
   - Tractors!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- Projects which might be interesting:
+- Projects which might be interesting (note many of these have extensive writeups/mathematical formulations):
   - [FarmGeneration](https://github.com/StuartGJohnson/FarmGeneration)
+  - [global_robot_localization](https://github.com/StuartGJohnson/global_robot_localization)
   - [map_builder](https://github.com/StuartGJohnson/map_builder)
   - [map_solver](https://github.com/StuartGJohnson/map_solver)
   - [trajectory_utils](https://github.com/StuartGJohnson/trajectory_utils)
