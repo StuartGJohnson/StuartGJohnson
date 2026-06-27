@@ -37,6 +37,8 @@
     - Backyard radio astronomy with SDR
     - Photometry and small telescopes
   - All tools to make device and SW engineering more transparent and more maintainable
+  - Oscilloscopes, power supplies, soldering stations
+  - Fixable, expandable and upgradeable stuff
 - 🌱 I’m currently learning ...
   - How to build up a robot (in simulation and reality) from near scratch in ROS2
   - ESP32 programming/debugging/development (Arduino IDE)
