@@ -1,14 +1,28 @@
 - 👋 Hi, I’m @StuartGJohnson
 - 👀 I’m interested in ...
+  - AI assisted project formulation and coding
+    - OpenAI + codex
+    - Gemini + Antigravity
+    - How to get a project completed with these ... junior engineers!
   - Robotics! especially...
     - Simulation
-    - Mobile robots
+    - Field robotics
     - Build up from scratch
-    - Various parts of the algorithm stack
-    - Robots that function outdoors in (more) natural environments
-  - Linear and non-linear controls and tools to develop and understand them:
-    - Modelica
-    - Simulink
+    - Various parts of the algorithm stack:
+      - GTSAM/factor graphs
+      - cvxpy/CasADI MPC
+      - point cloud processing
+      - sensor fusion
+      - tricky skid-steer stuff!
+  - Microcontrollers
+    - ESP32 (so far)
+    - STM32 upcoming
+    - sensor timestamping/clock sync
+    - code development and testing 
+  - Digital Twins
+    - Insta360 -> photgrammetry -> point-clouds and meshes
+    - Procedural Generation of digital twins (e.g. L-systems for trees and plants) 
+  - Control systems of all types
   - Machine learning and machine learning tools, especially:
     - Machine learning with very little data
     - Machine learning with very little labeled data
@@ -22,16 +36,17 @@
   - All tools to make device and SW engineering more transparent and more maintainable
 - 🌱 I’m currently learning ...
   - How to build up a robot (in simulation and reality) from near scratch in ROS2
+  - ESP32 programming/debugging/development (Arduino IDE)
   - Robotics and Autononous Systems via Stanford Graduate courses
   - How to observe variable stars (using AAVSO guides and my own HW/SW)
-  - ROS projects
-  - How to describe physical systems and implement/simulate/test their control in Modelica
-  - How to describe physical systems and implement/simulate/test their control in Simulink
-  - How to apply GIS and deep learning to map exploration
-  - Autonomous 1/10 scale racing
+  - Tractors!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- Projects with (github) pages:
+- Projects which might be interesting:
+  - [FarmGeneration](https://github.com/StuartGJohnson/FarmGeneration)
+  - [map_builder](https://github.com/StuartGJohnson/map_builder)
+  - [map_solver](https://github.com/StuartGJohnson/map_solver)
+  - [trajectory_utils](https://github.com/StuartGJohnson/trajectory_utils)
   - [ugv_ws](https://stuartgjohnson.github.io/ugv_ws/)
   - [Lagrange Points](https://StuartGJohnson.github.io/LagrangePoints)
   - [AA203_project](https://stuartgjohnson.github.io/AA203_project/)
