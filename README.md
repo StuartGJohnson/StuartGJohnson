@@ -3,7 +3,7 @@
   - AI assisted project formulation and coding
     - OpenAI + codex
     - Gemini + Antigravity
-    - How to get a project completed with these ... junior engineers!
+    - How to get a quality project documented, coded and tested with these ... junior engineers!
   - Robotics! especially...
     - Simulation
     - Field robotics
