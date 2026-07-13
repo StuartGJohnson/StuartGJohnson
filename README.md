@@ -59,6 +59,7 @@
   - [WorldGeneration](https://github.com/StuartGJohnson/WorldGeneration)
   - [trajectory_utils](https://github.com/StuartGJohnson/trajectory_utils)
   - [ugv_ws](https://stuartgjohnson.github.io/ugv_ws/)
+  - [urdf_tools](https://github.com/StuartGJohnson/urdf_tools)
   - [Lagrange Points](https://StuartGJohnson.github.io/LagrangePoints)
   - [AA203_project](https://stuartgjohnson.github.io/AA203_project/)
   - [ips_cam](https://stuartgjohnson.github.io/ips_cam/)
