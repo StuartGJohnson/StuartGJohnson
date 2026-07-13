@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @StuartGJohnson
 - 👀 I’m interested in / working on ...
   - Process
+    - You cannot work for a medical diagnostic device company and not become infused by process!
   - AI assisted project formulation and coding
     - OpenAI + codex
     - Gemini + Antigravity
