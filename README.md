@@ -8,7 +8,7 @@
   - Robotics!
     - Inspired by a series of robotics graduate courses at Stanford (super fun homeworks/projects!)
     - Simulation
-      - IsaacSim
+      - IsaacSim (challenge: repeatable (non-IsaacSIM GUI) custom robot and world construction)
       - Gazebo (Ignition)
       - Procedural generation of assets/worlds
     - Field robotics
