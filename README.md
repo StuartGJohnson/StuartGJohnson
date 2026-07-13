@@ -5,19 +5,19 @@
     - OpenAI + codex
     - Gemini + Antigravity
     - How to get a quality project developed, documented, coded and tested with these ... junior engineers (AI, that is)!
-  - Robotics! especially...
+  - Robotics!
+    - Inspired by a series of robotics graduate courses at Stanford (super fun homeworks/projects!)
     - Simulation
       - IsaacSim
       - Gazebo (Ignition)
       - Procedural generation of assets/worlds
     - Field robotics
-    - Build up from scratch
+    - Robot build-up/integration at all levels
     - Various parts of the algorithm stack:
       - GTSAM/factor graphs
       - cvxpy/CasADI MPC
       - point cloud processing
       - sensor fusion
-      - tricky skid-steer stuff!
       - occupancy map construction from non-robot scans (e.g. photogrammetry)
   - Microcontrollers
     - ESP32 (so far)
