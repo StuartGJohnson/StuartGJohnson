@@ -7,6 +7,9 @@
     - How to get a quality project developed, documented, coded and tested with these ... junior engineers (AI, that is)!
   - Robotics! especially...
     - Simulation
+      - IsaacSim
+      - Gazebo (Ignition)
+      - Procedural generation of assets/worlds
     - Field robotics
     - Build up from scratch
     - Various parts of the algorithm stack:
