@@ -52,6 +52,7 @@
   - [global_robot_localization](https://github.com/StuartGJohnson/global_robot_localization)
   - [map_builder](https://github.com/StuartGJohnson/map_builder)
   - [map_solver](https://github.com/StuartGJohnson/map_solver)
+  - [WorldGeneration](https://github.com/StuartGJohnson/WorldGeneration)
   - [trajectory_utils](https://github.com/StuartGJohnson/trajectory_utils)
   - [ugv_ws](https://stuartgjohnson.github.io/ugv_ws/)
   - [Lagrange Points](https://StuartGJohnson.github.io/LagrangePoints)
