@@ -13,7 +13,7 @@
       - Gazebo (Ignition)
       - Procedural generation of assets/worlds
     - Field robotics
-    - Robot build-up/integration at all levels
+    - Robot build-up/integration at all levels (FW/SW/HW)
     - Various parts of the algorithm stack:
       - GTSAM/factor graphs
       - cvxpy/CasADI MPC
@@ -37,18 +37,14 @@
     - Other applications for automatic differentiation tools
   - Archaeology and GIS
   - GIS and deep learning
+    - Active learning - assisted search of aerial imagery (e.g., mapbox imagery)
+    - Chaco Canyon application of above
   - Astronomy, both radio and optical
     - Backyard radio astronomy with SDR
-    - Photometry and small telescopes
+    - Photometry - e.g. AAVSO style variable star observations
   - All tools to make device and SW engineering more transparent and more maintainable
   - Oscilloscopes, power supplies, soldering stations
   - Fixable, expandable and upgradeable stuff
-- 🌱 I’m currently learning ...
-  - How to build up a robot (in simulation and reality) from near scratch in ROS2
-  - ESP32 programming/debugging/development (Arduino IDE)
-  - Robotics and Autononous Systems via Stanford Graduate courses
-  - How to observe variable stars (using AAVSO guides and my own HW/SW)
-  - Tractors!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - Projects which might be interesting (note many of these have extensive writeups/mathematical formulations):
