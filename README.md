@@ -48,6 +48,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - Projects which might be interesting (note many of these have extensive writeups/mathematical formulations):
+  - [farm-generator](https://github.com/StuartGJohnson/farm-generator)
   - [FarmGeneration](https://github.com/StuartGJohnson/FarmGeneration)
   - [global_robot_localization](https://github.com/StuartGJohnson/global_robot_localization)
   - [map_builder](https://github.com/StuartGJohnson/map_builder)
