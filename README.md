@@ -15,6 +15,7 @@
     - Field robotics
     - Robot build-up/integration at all levels (FW/SW/HW)
     - Various parts of the algorithm stack:
+      - High-level task planning via arc routing problems
       - GTSAM/factor graphs
       - cvxpy/CasADI MPC
       - point cloud processing
