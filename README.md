@@ -5,6 +5,7 @@
   - AI assisted project formulation and coding
     - OpenAI + codex
     - Gemini + Antigravity
+    - Claude + Claude Code
     - How to get a quality project developed, documented, coded and tested with these ... junior engineers (AI, that is)!
   - Robotics!
     - Inspired by a series of robotics graduate courses at Stanford (super fun homeworks/projects!)
